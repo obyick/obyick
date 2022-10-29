@@ -4,8 +4,8 @@ Olá, meu nome é <code>Matheus Erick</code>, e este é o meu perfil no GitHub, 
 
 <div align="center">
 <a href="https://github.com/obyick">
-<img height="212em" src="https://github-readme-stats.vercel.app/api?username=obyick&show_icons=true&theme=darcula&include_all_commits=true&count_private=true"/>
-<img height="212em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=obyick&layout=compact&langs_count=7&theme=darcula"/>
+<img height="190em" src="https://github-readme-stats.vercel.app/api?username=obyick&show_icons=true&theme=darcula&include_all_commits=true&count_private=true"/>
+<img height="190em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=obyick&layout=compact&langs_count=7&theme=darcula"/>
 </div>
   
 <div align="right"><h3><p><strong>
