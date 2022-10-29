@@ -1,4 +1,4 @@
-<div align="center"><h3><p><strong>
+<div align="center"><h1><p><strong>
 Olá, meu nome é <code>Matheus Erick</code>, e este é o meu perfil no GitHub, onde o meu repositório é o seu repositório!
 </strong></p></h2></div>
 
