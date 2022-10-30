@@ -1,7 +1,7 @@
 <div align="center">
-<h1>
+<h2>
 Olá, o meu nome é <code>Matheus Erick</code>, e este é o meu perfil no GitHub
-</h>
+</h2>
 </div>
 
 <br>
