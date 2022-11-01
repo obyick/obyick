@@ -1,6 +1,6 @@
 <div align="center">
 <p>
-<h1>
+<h3>
 Olá, meu nome é <code>Matheus Erick</code>, e estou em busca de desafios e conquistas em desenvolvimento <code>Back-End</code>
 </p>
 
