@@ -1,7 +1,7 @@
 <div align="center">
 <p>
 <h3>
-Olá, meu nome é <code>Matheus Erick</code>, e estou em busca de desafios e conquistas em desenvolvimento <code>Back-End</code>
+Olá, meu nome é <code>Matheus Erick</code>, e estou em busca de desafios em desenvolvimento <code>Back-End</code>
 </p>
 
 <p>
